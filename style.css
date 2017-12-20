@@ -1,0 +1,17 @@
+.weather-map{
+    width:100%;
+    height: 100vh;
+}
+
+.buienradar-frame-buien{
+    /* height: 100vh;
+    width: 100vw;
+    position: absolute;
+    left:0;
+    top:0; */
+}
+
+.buienradar-frame-forecast{
+    height: 100%;
+    width: 100%;
+}
